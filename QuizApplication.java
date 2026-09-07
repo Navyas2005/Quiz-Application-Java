@@ -8,7 +8,7 @@ public class QuizApplication {
 
     static String url = "jdbc:mysql://localhost:3306/quiz_db";
     static String username = "root";
-    static String password = "Navyasree@142";
+    static String password =  "YOUR_PASSWORD";
 
     public static Connection getConnection() {
         try {
